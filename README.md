@@ -1,6 +1,5 @@
 
 ## Hello! I'm Nnenna Njoku
-<!--
 ** Ninadatasavy/All-to-Know-About-Nnenna-Njoku** is a ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
 👋I'm a passionate Data Analyst with a keen interest in Data and Business Analytics. 
 
